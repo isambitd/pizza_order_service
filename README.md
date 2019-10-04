@@ -1,5 +1,6 @@
-# Implementing the following logic using the Django REST framework
-# Imagine a pizza ordering services with the following functionality:
+Implementing the following logic using the Django REST framework
+
+Imagine a pizza ordering services with the following functionality:
 
 	## Order pizzas:
 		• It can specify the desired flavors of pizza, the number of pizzas and their size.
