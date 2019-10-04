@@ -19,12 +19,17 @@
 
 # How to run the server
 
-Assuming you have docker installed in your system - 
-Run `sh start.sh`
-and you can see it will build docker and then run 16 test cases.
+Assuming you have docker installed in your system.
+
+Run `sh start.sh` - to start the server
+
+Run `sh stop.sh` -  to stop the server and clean the environment
+
 Finally you can see the apis in `localhost:8080` in your browser
 
-To stop and clean 
-Run `sh stop.sh`
+Additionally, You can see the logs while running start.sh file.
+
+At some step it will run 16 test cases.
+
 
 Thank you :)
